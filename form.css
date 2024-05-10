@@ -1,0 +1,43 @@
+body {
+    background-image: url('coBG.jpg');
+    background-size: cover; /* Resize the background image to cover the entire page */
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+    background-attachment: fixed; /* Fix the background image in place while scrolling */
+  }
+  
+
+  .form-group {
+    margin-bottom: 20px;
+    border: 5px solid #ccc; /* Add border around each form group */
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1); /* Add box shadow effect */
+    padding: 15px; /* Add padding inside each form group for spacing */
+    background-color: rgba(255, 255, 255, 0.8); /* Set an opaque white background color */
+    width: 50%;
+}
+
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+
+  }
+  
+  button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007bff; /* Set button background color */
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Add transition for hover effect */
+  
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0056b3; /* Change background color on hover */
+  }
+  

@@ -1,0 +1,75 @@
+[
+    
+  {
+    "name": "Body Souffle",
+    "price": 45.99,
+    "description": "This nutrient-rich smoothie of a lip balm—infused with 8 nourishing plant oils and butters—is a 2-in-1 treatment + overnight mask for soft, supple lips..",
+    "photo": "body souffle.jpg"
+  },
+  {
+      "name": "Charcoal mask",
+      "price": 39.99,
+      "description": "This vegan buttery-rich purifying charcoal & chia face mask clears the way so that all skin types—even dry skin—can be left purified and comfortable Free of animal-derived ingredients 3",
+      "photo": "img/charcoal_mask.jpg"
+    },
+    {
+      "name": "Ginger body cream",
+      "price": 30.00,
+      "description": "A whipped body cream with our signature, spicy Ginger aroma.",
+      "photo": "img/ginger body cream"
+    },
+    {
+      "name": "Ginger body scrub",
+      "price": 40.00,
+      "description": "Skin-scouring Dead Sea Salts and warming Ginger Zest cushioned in emollient-rich Macadamia, Soybean, Kukui Nut and Sweet Almond Oils removes all traces of roughness to buff every bit of you.",
+      "photo": "img/ginger body scrub.jpg"
+    },
+    {
+      "name": "Hand and body lotion",
+      "price": 39.99,
+      "description": "Our silky hand and body lotion with Hyaluronic Acid and Apricot Oil hydrates, improves barrier strength and imparts radiance—while it reveals softer, smoother skin over time",
+      "photo": "img/hand and body lotion.jpg"
+    },
+    {
+      "name": "hand treatment",
+      "price": 25.00,
+      "description": "Self-hydrating Rose of Jericho plus skin-reviving Trehalose and Sea Haricots work hand-in-hand to help skin recover from dramatic dehydration",
+      "photo": "hand treatment.jpg"
+    },
+    {
+      "name": "lip butter",
+      "price": 16.50,
+      "description": "This nutrient-rich smoothie of a lip balm—infused with 8 nourishing plant oils and butters—is a 2-in-1 treatment + overnight mask for soft, supple lips",
+      "photo": "lip butter.jpg"
+    },
+    {
+      "name": "Masking essentials",
+      "price": 39.99,
+      "description": "2-in-1 mask exfoliates dead surface cells and gently deep cleans to diminish the appearance of pores and helps restore the look of clarity",
+      "photo": "img/charcoal_mask.jpg"
+    },
+    {
+      "name": "On the spot",
+      "price": 39.99,
+      "description": "A soul-soothing, sensory treatment that helps you find your inner peace, on-the-spot.",
+      "photo": "img/on the spot.jpg"
+    },
+    {
+      "name": "recovery for dry skin",
+      "price": 39.99,
+      "description": "Skin-nourishing Shea and Cocoa Butters, Sunflower, Soybean and Ginseng Oils and Gentian Root help rapidly refresh, renew and replenish even the driest body skin.",
+      "photo": "img/recovery for dry skin.jpg"
+    },
+    {
+      "name": "skin scent",
+      "price": 25.00,
+      "description": "Ginger Essence is our signature ginger perfume and a fan-favorite since 2000.",
+      "photo": "img/charcoal_mask.jpg"
+    },
+    {
+      "name": "Smoothing ginger body scrub",
+      "price": 50.00,
+      "description": "Smoothing Sugar gently buffs away rough, dry skin, then transform into a creamy, cleansing lather. Leaves skin soft, refreshed, reinvigorated. Lightly scented with the irresistible aroma of Ginger..",
+      "photo": "smoothing ginger body scrub.jpg"
+    }
+]
