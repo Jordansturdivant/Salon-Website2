@@ -1,19 +1,22 @@
-*{
-    background-color: pink;
+body {
+  background-color: #fdf5f0;
 }
 
 #product-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 20px;
-  }
+    grid-gap: 40px;
+    margin-top: 20px;
+}
+  
   
   /* Updated CSS with border and shadow for product boxes */
   .product-item {
     width: 100%; /* Ensures each product spans the full width of its grid cell */
     border: 1px solid whitesmoke; /* Add border around each product box */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow effect */
-    padding: 15px; /* Add padding inside the product box for spacing */
+    padding: 20px; /* Add padding inside the product box for spacing */
+    margin: 10px;
   }
   
   
@@ -21,13 +24,15 @@
   
   .product-image {
     width: 100px; /* Adjust width as needed */
-    height: 100px; /* Adjust height as needed */
+    height: auto; /* Adjust height as needed */
     margin-right: 10px;
   }
   
   .product-details {
     display: flex;
     flex-direction: column;
+    justify-content: space-between; /* Space out items within product details */
+    align-items: center; /* Center-align items within product details */
   }
   
   .product-name {
@@ -41,5 +46,25 @@
   .product-description {
     color: #333; /* Adjust text color as needed */
   }
-  
+
+  /* Testimonial section styles */
+.testimonial-section {
+  background-color: #f8f8f8;
+  padding: 20px;
+  text-align: center;
+  margin-top: 20px; /* Adjust margin top as needed */
+}
+
+.rating {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.testimonial-text {
+  font-style: italic;
+  color: #666;
+  font-size: 40px;
+}
+
+
   

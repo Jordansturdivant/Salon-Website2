@@ -3,25 +3,25 @@
   {
     "name": "Body Souffle",
     "price": 45.99,
-    "description": "This nutrient-rich smoothie of a lip balm—infused with 8 nourishing plant oils and butters—is a 2-in-1 treatment + overnight mask for soft, supple lips..",
-    "photo": "body souffle.jpg"
+    "description": "Made from Wintergreen Leaves, White Willow Tree Bark, Phyto-Powered Complex with Shea Butter and Apricot Oil.",
+    "photo": "img/body souffle.jpg"
   },
   {
       "name": "Charcoal mask",
       "price": 39.99,
-      "description": "This vegan buttery-rich purifying charcoal & chia face mask clears the way so that all skin types—even dry skin—can be left purified and comfortable Free of animal-derived ingredients 3",
+      "description": "This vegan buttery-rich purifying charcoal & chia face mask clears the way for all skin types",
       "photo": "img/charcoal_mask.jpg"
     },
     {
       "name": "Ginger body cream",
-      "price": 30.00,
+      "price": 35.99,
       "description": "A whipped body cream with our signature, spicy Ginger aroma.",
-      "photo": "img/ginger body cream"
+      "photo": "img/ginger body cream.jpg"
     },
     {
       "name": "Ginger body scrub",
       "price": 40.00,
-      "description": "Skin-scouring Dead Sea Salts and warming Ginger Zest cushioned in emollient-rich Macadamia, Soybean, Kukui Nut and Sweet Almond Oils removes all traces of roughness to buff every bit of you.",
+      "description": "Skin-scouring Dead Sea Salts and warming Ginger Zest cushioned in Sweet Almond Oils removes all traces of roughness to buff every bit of you.",
       "photo": "img/ginger body scrub.jpg"
     },
     {
@@ -32,21 +32,21 @@
     },
     {
       "name": "hand treatment",
-      "price": 25.00,
+      "price": 25.99,
       "description": "Self-hydrating Rose of Jericho plus skin-reviving Trehalose and Sea Haricots work hand-in-hand to help skin recover from dramatic dehydration",
-      "photo": "hand treatment.jpg"
+      "photo": "img/hand treatment.jpg"
     },
     {
       "name": "lip butter",
       "price": 16.50,
-      "description": "This nutrient-rich smoothie of a lip balm—infused with 8 nourishing plant oils and butters—is a 2-in-1 treatment + overnight mask for soft, supple lips",
-      "photo": "lip butter.jpg"
+      "description": "lip balm—infused with 8 nourishing plant oils and butters—is a 2-in-1 treatment + overnight mask for soft, supple lips",
+      "photo": "img/lip butter.jpg"
     },
     {
       "name": "Masking essentials",
       "price": 39.99,
-      "description": "2-in-1 mask exfoliates dead surface cells and gently deep cleans to diminish the appearance of pores and helps restore the look of clarity",
-      "photo": "img/charcoal_mask.jpg"
+      "description": "2-in-1 mask exfoliates dead surface cells and gently deep cleans, also helps restore the look of clarity",
+      "photo": "img/masking essentials.jpg"
     },
     {
       "name": "On the spot",
@@ -57,19 +57,19 @@
     {
       "name": "recovery for dry skin",
       "price": 39.99,
-      "description": "Skin-nourishing Shea and Cocoa Butters, Sunflower, Soybean and Ginseng Oils and Gentian Root help rapidly refresh, renew and replenish even the driest body skin.",
+      "description": "Skin-nourishing Shea and Cocoa Butters, help rapidly refresh, renew and replenish even the driest body skin.",
       "photo": "img/recovery for dry skin.jpg"
     },
     {
       "name": "skin scent",
-      "price": 25.00,
+      "price": 25.99,
       "description": "Ginger Essence is our signature ginger perfume and a fan-favorite since 2000.",
       "photo": "img/charcoal_mask.jpg"
     },
     {
       "name": "Smoothing ginger body scrub",
-      "price": 50.00,
-      "description": "Smoothing Sugar gently buffs away rough, dry skin, then transform into a creamy, cleansing lather. Leaves skin soft, refreshed, reinvigorated. Lightly scented with the irresistible aroma of Ginger..",
-      "photo": "smoothing ginger body scrub.jpg"
+      "price": 55.99,
+      "description": "Smoothing Sugar gently buffs away dry skin and Leaves skin soft, refreshed, reinvigorated. ",
+      "photo": "img/smoothing ginger body scrub.jpg"
     }
 ]
