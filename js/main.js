@@ -1,30 +1,16 @@
 // Menu Open Close
+//This selects the HTML element with the class menu-icon and assigns it to the variable menu.
 let menu = document.querySelector(".menu-icon");
 let navbar = document.querySelector(".navbar");
 
-menu.onclick = () => {
+//This sets an event listener for the click event on the menu element. When the menu is clicked, the function inside will execute
+//This is for my hamburger menu
+menu.onclick = () => {     
   menu.classList.toggle("move");
   navbar.classList.toggle("open-menu");
 };
-// Swiper
-var swiper = new Swiper(".services-content", {
-  spaceBetween: 30,
-  centeredSlides: true,
-  autoplay: {
-    delay: 50000,
-    disableOnInteraction: false,
-  },
-  navigation: {
-    nextEl: ".swiper-button-next",
-    prevEl: ".swiper-button-prev",
-  },
-});
-// Header
-let header = document.querySelector("header");
 
-window.addEventListener("scroll", () => {
-  header.classList.toggle("shadow", window.scrollY > 0);
-});
+
 
 
 
